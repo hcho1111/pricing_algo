@@ -1,9 +1,9 @@
+ipykernel
 matplotlib
 numpy
 pandas
 scikit-learn
 seaborn
-ta
 random
-scipy 
+scipy
 hmmlearn
