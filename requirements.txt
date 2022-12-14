@@ -11,7 +11,3 @@ ta
 random
 scipy 
 hmmlearn
-
-
-
-
