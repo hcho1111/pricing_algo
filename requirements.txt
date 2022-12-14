@@ -1,0 +1,17 @@
+ipykernel
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+tensorflow-addons
+pyarrow
+ta
+random
+scipy 
+hmmlearn
+
+
+
+
